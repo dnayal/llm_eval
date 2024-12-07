@@ -3,3 +3,6 @@ langchain
 deepeval
 langchain-nvidia-ai-endpoints
 langchain-core
+bitsandbytes
+pydantic
+lm-format-enforcer
