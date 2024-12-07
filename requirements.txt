@@ -1,0 +1,5 @@
+langchain-huggingface
+langchain
+deepeval
+langchain-nvidia-ai-endpoints
+langchain-core
